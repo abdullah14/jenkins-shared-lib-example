@@ -1,4 +1,4 @@
-@Library('shared-jenkins-lib) _
+@Library('shared-jenkins-lib') _
 
 def config = [name: 'Newman', dayOfWeek: 'Friday']
 
